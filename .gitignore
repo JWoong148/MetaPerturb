@@ -1,0 +1,7 @@
+*.npy
+*.npz
+.vscode/
+__pycache__/
+.DS_store/
+.env/
+
